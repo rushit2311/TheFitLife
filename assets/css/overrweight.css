@@ -1,0 +1,122 @@
+body{
+    background-color: #FFF7E9;
+    font-family: "Raleway", sans-serif;
+}
+.s1{
+    background-image: linear-gradient(to left,rgb(0, 179, 255) ,rgb(0, 235, 129));
+    margin-top: 20px;
+}
+h1{
+    color:rgb(0, 0, 0);
+    font-size: 50px;
+    margin-left:48%;
+}
+h2{
+    color: #0E5E6F;
+    font-size: 30px;
+    text-align: justify;
+    margin-left:49%;
+    margin-right:4% ;
+}
+.que{
+    position: absolute;
+}
+.uw{
+    margin-top: 2%;
+    height: 450px;
+    margin-left: 1%;
+    border-radius: 10px;
+    filter:drop-shadow(10px 10px 4px rgba(0, 0, 0, 0.293));
+}
+.s2{
+    background-image: linear-gradient(to right, pink,rgb(0, 115, 255));
+}
+.ru{
+    font-size: 50px;
+    margin-top: 1%;
+    margin-left: 1%;
+    font-weight: 600;
+}
+.rua{
+    color:#0E5E6F;
+    margin-left: 1%;
+    font-size: 30px;
+    margin-right: 55%;
+    text-align: justify;
+}
+.teeth{
+    position: absolute;
+    border-radius: 10px;
+    filter:drop-shadow(10px 10px 4px rgba(0, 0, 0, 0.293));
+    margin-left: 50%;
+    margin-top: -43%;
+    height: 300px;
+}
+.seek{
+    position: absolute;
+    border-radius: 10px;
+    filter:drop-shadow(10px 10px 4px rgba(0, 0, 0, 0.293));
+    margin-left: 55%;
+    margin-top: -25%;
+}
+.period{
+    position: absolute;
+    border-radius: 10px;
+    filter:drop-shadow(10px 10px 4px rgba(0, 0, 0, 0.293));
+    margin-left: 72%;
+    margin-top: -43%;
+    height: 300px;
+}
+
+.causes{
+    font-size: 50px;
+    margin-left: 50%;
+    font-weight: 600;
+}
+.s3{
+    background-image: linear-gradient(to left,rgb(255, 208, 120),rgb(245, 100, 201));
+    margin-top: 20px;
+    
+    
+}
+.cau{
+    
+    color:#0E5E6F;
+    margin-left: 49%;
+    margin-right: 1%;
+    font-size: 30px;
+    text-align: justify;
+}
+.mental{
+    
+    margin-top: -820px;
+    margin-left: -90%;
+    border-radius: 10px;
+    filter:drop-shadow(10px 10px 4px rgba(0, 0, 0, 0.293));
+}
+.s4{
+    background-image: linear-gradient(to right,rgb(255, 255, 111),rgb(109, 255, 109));
+}
+.treatment{
+    
+    font-size: 50px;
+    margin-top: 20px;
+    margin-left: 1%;
+    font-weight: 600;
+}
+.trea{
+    
+    color:#0E5E6F;
+    font-size: 30px;
+    margin-top: 10px;
+    margin-left: 1%;
+    text-align: justify;
+    margin-right: 55%;
+}
+.chart{
+    
+    border-radius: 10px;
+    margin-left: 115%;
+    margin-top: -65%;
+    filter:drop-shadow(10px 10px 4px rgba(0, 0, 0, 0.293));
+}
